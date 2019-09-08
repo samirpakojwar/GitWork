@@ -23,7 +23,7 @@ public class MyProjectClass {
 		Thread.sleep(2000);
 		driver.close();
 		//driver.quit();
-		
+		System.out.println("Changes by B");
 		
 	}
 
