@@ -24,8 +24,8 @@ public class MyProjectClass {
 		driver.close();
 		//driver.quit();
 		System.out.println("Changes by BDevelop");
-		System.out.println("Changes by BDev");
-		System.out.println("Changes by BD");
+		System.out.println("Changes by BDevelop");
+		System.out.println("Changes by BDevelop");
 		
 	}
 
