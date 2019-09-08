@@ -24,6 +24,7 @@ public class MyProjectClass {
 		driver.close();
 		//driver.quit();
 		System.out.println("Changes by B");
+		System.out.println("Changes by B");
 		
 	}
 
